@@ -14,7 +14,7 @@
                 // Nếu người dùng click vào button Send
                 // Vì button đó tên là submit nên đó cũng là
                 // tên của key nằm trong biến $_POST
-                
+                //
                 if (isset($_POST['submit'])){
                     if(empty($_POST['username'])){
                         echo "Please enter username !!!!!";
