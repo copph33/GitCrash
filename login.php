@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 GIF89a;
+<!DOCTYPE html>
 <html>
     <head>
         <title></title>
