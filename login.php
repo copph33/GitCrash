@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+GIF89a;
 <html>
     <head>
         <title></title>
